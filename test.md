@@ -12,7 +12,9 @@
 3. 변경사항을 기록하는 과정을 아래 코드 블록에 작성해 주세요.
    - 답
    ```bash
- 
+   `git add <file> or git add .`
+   `git commit -m "Commit Message"`
+  
    ```
 
 4. 아래와 같은 메시지가 발생했을 때, 무엇을 해야 할까요?
