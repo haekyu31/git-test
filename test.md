@@ -21,8 +21,10 @@
 ![image](https://user-images.githubusercontent.com/98133984/181182281-4d01a374-62fe-4957-9a07-1efc005e35d3.png)
    - 답
    ```bash
-  
+   `$ git config --global user.email {email@email.com}
+   $ git config --global user.name {uesr_name}`
    ```
+
 5. clone과 pull의 차이는 무엇인가요?
    - 답 :
    
