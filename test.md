@@ -61,4 +61,5 @@
     ```
 
 13. merge와 rebase의 차이점은 무엇일까요? 
-     - 답 : 
+     - 답 : merge는 나뉜 branch를 기존의 master branch와 합치면서 merge commit을 만들어주는 반면,
+     - rebase는 merge commit을 생성하지 않고 나눠진 branch를 한 줄로 연결시킨다.
